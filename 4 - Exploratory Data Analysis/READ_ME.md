@@ -42,6 +42,34 @@ Open the 'titanic.ipynb' notebook and follow the analysis. The notebook answers 
 4. Add one other observation that you have noted in the dataset.
 
 ### Screenshots of Program Code
+* Load the Dataset
+
+![1](https://github.com/FYusuf0/codingTasks/assets/163458121/48399ae2-2c72-43c0-9a4c-3b6dbee873bb)
+
+
+* Data Cleaning and Preparation
+
+![2](https://github.com/FYusuf0/codingTasks/assets/163458121/8ace65ff-7c38-4483-9088-0beeb53e9dfa)
+
+
+* Analyze Survival Rates by Gender
+
+![3](https://github.com/FYusuf0/codingTasks/assets/163458121/118db0bb-e174-42b0-abfe-060262975be9)
+
+
+* Analyze Survival Rates by Class
+
+![4](https://github.com/FYusuf0/codingTasks/assets/163458121/286716a2-2ab7-4e88-b433-1c59bf1384b0)
+
+
+* Analyze Survival Rates of all ages
+
+![5](https://github.com/FYusuf0/codingTasks/assets/163458121/f4686fcb-abe9-4f29-b0ca-027191ef2d81)
+
+
+* Additional Observation (Survival Rate by Cabin Deck)
+
+![6](https://github.com/FYusuf0/codingTasks/assets/163458121/d6533c88-199f-4d5a-a899-482e01cb6c40)
 
 
 ## Credit
