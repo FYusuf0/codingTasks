@@ -23,8 +23,16 @@ If you don't have Python installed, you can download it from here: www.python.or
 ## Usage
 
 ### User Inputs
+The program will prompt the user to input the following:
+
+1. **City Flight:** The city they will be flying to, there are options provided.
+2. **Number of Nights:** The number of nights they will stay in the hotel.
+3. **Rental Days:** The number of days they will hire the car.
 
 ### Functions
+The program includes four functions:
+
+
 
 ## Credit
 
