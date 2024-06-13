@@ -18,9 +18,13 @@ This coding task is important for introducing how to use functions, conditionals
 ## Installation
 To run this program, you will need to have Python installed on your computer. 
 
-If you don't have Python installed, you can download it from here: <www.python.org>
+If you don't have Python installed, you can download it from here: www.python.org
 
 ## Usage
+
+### User Inputs
+
+### Functions
 
 ## Credit
 
