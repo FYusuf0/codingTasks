@@ -54,8 +54,36 @@ Open the 'report.ipynb' file and perform the following analysis:
 
 ### Screenshots of Program Code
 Task 1:
+1. Data Selection and Sorting
+* Select the 'Limit' and 'Rating' columns of the first five observations
+
+![T1 2](https://github.com/FYusuf0/codingTasks/assets/163458121/80862904-4a69-4bb4-a1ff-1f58b431df6e)
+
+* Select the first five observations with 4 cards
+
+![T1 3](https://github.com/FYusuf0/codingTasks/assets/163458121/a1d70e5f-35ed-477a-9a0e-e514702b1000)
+
+* Sort the observations by 'Education'. Show users with a high education value first
+
+![T1 4](https://github.com/FYusuf0/codingTasks/assets/163458121/20ad8685-6f3d-4897-b542-b6944dc9c194)
+
+
+2. Explanation of Code
+* df.iloc[:, :]
+* df.iloc[5:, 5:]
+* df.iloc[:, 0]
+* df.iloc[9, :]
 
 Task 2:
+1. Create a DataFrame from 'balance.txt'
+
+2. Produce the Report
+* Compare the average income based on ethnicity
+* On average, do married or single people have a higher balance?
+* What is the highest income in our dataset?
+* What is the lowest income in our dataset?
+* How many cards do we have recorded in our dataset?
+* How many females do we have information for vs how many males?
 
 ## Credit
 This program was developed by *Faheem Yusuf*
