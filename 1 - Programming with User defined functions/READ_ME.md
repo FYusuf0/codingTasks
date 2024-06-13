@@ -39,8 +39,17 @@ The program includes four functions:
 
 ### Screenshots of Program Code
 Here's screenshots of how the program works
+
+The code in full
 ![Code example](https://github.com/FYusuf0/codingTasks/assets/163458121/7488a117-fab9-4961-8e9f-5f0c4e9ae2ea)
 
+The outputs of the code
+![Code example output](https://github.com/FYusuf0/codingTasks/assets/163458121/77a66a95-0092-45bd-8f37-fa57c09a617c)
+The inputs were:
+* London - £500
+* Number of nights - 5 X £50 = £250
+* number of rental days - 4 X £30 = £120
+* Total Cost of Holiday - £870
 
 ## Credit
 This program was developed by *Faheem Yusuf*
