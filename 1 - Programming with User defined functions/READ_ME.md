@@ -32,7 +32,12 @@ The program will prompt the user to input the following:
 ### Functions
 The program includes four functions:
 
+1. **hotel_cost(num_nights):** The function takes 'num_nights' as an arguement and returns the total cost for the hotel stay.
+2. **plane_cost(city_flight):** Takes city_flight as an argument and returns the cost of the flight. Uses conditional statements to determine the price based on the chosen city.
+3. **car_rental(rental_days):** Takes rental_days as an argument and returns the total cost of the car rental.
+4. **holiday_cost(num_nights, city_flight, rental_days):** Takes num_nights, city_flight, and rental_days as arguments, calls the above functions, and returns the total cost of the holiday.
 
 
 ## Credit
+This program was developed by *Faheem Yusuf*
 
