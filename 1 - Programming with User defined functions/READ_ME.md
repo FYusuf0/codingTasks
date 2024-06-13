@@ -1,19 +1,19 @@
 # Holiday Cost Calculator
 
-### Description
+## Description
 
 
-### Table of Contents
-[Headers](#headers)  
-[Emphasis](#emphasis)     
+## Table of Contents
+[Description](#description)  
+[Installation](#installation)     
+[Usage](#usage) 
+[Credit](#credit) 
+[Headers](#headers) 
 
-## Headers
+## Installation
 
 
-### Installation
+## Usage
 
-
-### Usage
-
-### Credit(s)
+## Credit
 
