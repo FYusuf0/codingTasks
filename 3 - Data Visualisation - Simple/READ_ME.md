@@ -55,6 +55,25 @@ You can install the necessary Python packages using pip:
 2. Question: Does a larger car mean more horsepower?
 
 ### Screenshots of Program Code
+* Box Plot for Revs per Mile
+
+![1](https://github.com/FYusuf0/codingTasks/assets/163458121/e67f02d1-211d-4a5e-b525-e99a2393107b)
+
+
+* Histogram of MPG
+
+![2](https://github.com/FYusuf0/codingTasks/assets/163458121/028cb5bd-5d08-416b-b005-6b0a5c6cebdc)
+
+
+* Line Plot for Wheelbase and Turning Circle
+
+![3](https://github.com/FYusuf0/codingTasks/assets/163458121/22c5ad44-007a-41fc-b193-f5210e96e0e3)
+
+
+* Bar Plot for Mean Horsepower
+
+![4](https://github.com/FYusuf0/codingTasks/assets/163458121/322175b8-0efd-45fd-814e-87466a57dc39)
+
 
 ## Credit
 This program was developed by *Faheem Yusuf*
