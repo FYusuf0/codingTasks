@@ -37,6 +37,7 @@ The program includes four functions:
 3. **car_rental(rental_days):** Takes rental_days as an argument and returns the total cost of the car rental.
 4. **holiday_cost(num_nights, city_flight, rental_days):** Takes num_nights, city_flight, and rental_days as arguments, calls the above functions, and returns the total cost of the holiday.
 
+### Screenshots of Program Code
 
 ## Credit
 This program was developed by *Faheem Yusuf*
