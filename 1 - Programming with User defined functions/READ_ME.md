@@ -38,6 +38,9 @@ The program includes four functions:
 4. **holiday_cost(num_nights, city_flight, rental_days):** Takes num_nights, city_flight, and rental_days as arguments, calls the above functions, and returns the total cost of the holiday.
 
 ### Screenshots of Program Code
+Here's screenshots of how the program works
+![Code example](https://github.com/FYusuf0/codingTasks/assets/163458121/7488a117-fab9-4961-8e9f-5f0c4e9ae2ea)
+
 
 ## Credit
 This program was developed by *Faheem Yusuf*
