@@ -41,9 +41,11 @@ The program includes four functions:
 Here's screenshots of how the program works
 
 The code in full
+
 ![Code example](https://github.com/FYusuf0/codingTasks/assets/163458121/7488a117-fab9-4961-8e9f-5f0c4e9ae2ea)
 
 The outputs of the code
+
 ![Code example output](https://github.com/FYusuf0/codingTasks/assets/163458121/77a66a95-0092-45bd-8f37-fa57c09a617c)
 The inputs were:
 * London - £500
