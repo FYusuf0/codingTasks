@@ -47,6 +47,7 @@ The code in full
 The outputs of the code
 
 ![Code example output](https://github.com/FYusuf0/codingTasks/assets/163458121/77a66a95-0092-45bd-8f37-fa57c09a617c)
+
 The inputs were:
 * London - £500
 * Number of nights - 5 X £50 = £250
