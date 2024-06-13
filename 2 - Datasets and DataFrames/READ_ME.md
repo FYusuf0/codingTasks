@@ -74,16 +74,44 @@ Task 1:
 * df.iloc[:, 0]
 * df.iloc[9, :]
 
+![T1 5](https://github.com/FYusuf0/codingTasks/assets/163458121/12ad97a0-9c9f-4714-8c7b-a36a25a6e214)
+
+
 Task 2:
 1. Create a DataFrame from 'balance.txt'
 
+![T2 1](https://github.com/FYusuf0/codingTasks/assets/163458121/73cfbd0c-bb99-4190-b0f0-5a6cb0105672)
+
+
 2. Produce the Report
 * Compare the average income based on ethnicity
+
+![T2 2](https://github.com/FYusuf0/codingTasks/assets/163458121/eb224257-39ad-4880-8867-d2afe794e645)
+
 * On average, do married or single people have a higher balance?
+
+![T2 3](https://github.com/FYusuf0/codingTasks/assets/163458121/f362d81b-4da0-45b7-ab6b-963dc27ba9e2)
+
+
 * What is the highest income in our dataset?
+
+![T2 4](https://github.com/FYusuf0/codingTasks/assets/163458121/12f4bc72-8acb-4c55-9d83-b1b316aea1dd)
+
+
 * What is the lowest income in our dataset?
+
+![T2 5](https://github.com/FYusuf0/codingTasks/assets/163458121/bb589836-df52-4806-b233-d5f325ee4ff7)
+
+
 * How many cards do we have recorded in our dataset?
+
+![T2 6](https://github.com/FYusuf0/codingTasks/assets/163458121/44dd50bd-a873-4c82-a4b5-18422c04b351)
+
+
 * How many females do we have information for vs how many males?
+
+![T2 7](https://github.com/FYusuf0/codingTasks/assets/163458121/55a19cd0-a75a-4004-9976-a0b33bb95e01)
+
 
 ## Credit
 This program was developed by *Faheem Yusuf*
